@@ -1,3 +1,3 @@
-rm shoppinglist.txt								# slet den gamle liste
-touch shoppinglist.txt								# lav ny liste
+rm shoppinglist.txt								
+touch shoppinglist.txt								
 echo aaæg=false_mælk=false_ost=false_barberskum=false_ >> shoppinglist.txt	
